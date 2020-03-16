@@ -1,0 +1,1 @@
+These are the codes for various problems on GFG. Make a PR if you have a better solution.
